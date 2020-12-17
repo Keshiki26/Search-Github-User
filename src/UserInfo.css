@@ -1,0 +1,121 @@
+.userinfo-container {
+	justify-content: flex-start;
+	display: flex;
+	margin-top: 20px !important;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+.userinfo-box {
+	width: 100%;
+}
+.no {
+	all: initial;
+}
+
+.nono {
+	margin-top: 40px !important;
+}
+.userinfo-avatar {
+	width: 90px;
+	border-radius: 50%;
+}
+
+.userinfo-upper-text {
+	font-size: 1.2em;
+	padding: 10px 20px;
+	border-radius: 10px;
+	margin-top: 40pximportant;
+	background-color: white;
+}
+.userinfo-info {
+	background-color: rgb(255, 255, 255);
+	padding: 30px 10px;
+}
+.repoinfo-desc {
+	background-color: rgb(255, 255, 255);
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-style: italic;
+
+	color: rgb(165, 165, 165);
+}
+
+.repo-info {
+	background-color: white;
+}
+.repo-info-text {
+	font-size: 0.9em;
+}
+.repo-info-top {
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	cursor: pointer;
+}
+.repo-info-icon {
+	align-self: center;
+}
+.userinfo-desc {
+	background-color: rgb(255, 255, 255);
+	padding: 10px 0px 20px 10px;
+}
+.userinfo-info-texts {
+	display: flex;
+	padding: 20px;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+.userinfo-info-name {
+	font-size: 1.2em;
+	font-weight: 400;
+}
+.linkxd {
+	text-align: start;
+	display: flex;
+	justify-content: flex-start !important;
+}
+
+.repoinfotext {
+	font-size: 1em;
+	font-weight: 400;
+}
+.userinfo-info-id {
+	font-size: 0.9em;
+	color: rgb(98, 98, 98);
+	font-weight: 300;
+}
+.userinfo-info-top {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+.userinfo-info-bottom {
+	display: flex;
+	justify-content: flex-end;
+}
+.repodisplay {
+	overflow: scroll;
+	height: 40vh;
+}
+.userinfo-info-button {
+	height: 40px;
+}
+.piechart {
+	border: 1px solid black;
+	border-radius: 50%;
+	padding: 1px;
+	transition: all 1s ease-in-out;
+	background-color: rgb(238, 238, 238);
+}
+.piechart-container {
+	background-color: rgb(255, 255, 255);
+	padding: 40px;
+}
+.rest {
+	justify-content: center;
+}

@@ -1,0 +1,59 @@
+body {
+	margin: 0;
+}
+
+.topTitleBar {
+	justify-content: center;
+}
+
+.info-info {
+	display: flex;
+	padding: 20px;
+	justify-self: flex-start !important;
+}
+.searchBarTop {
+	margin-bottom: 50px !important;
+}
+.info-icon-container {
+	display: flex;
+	padding: 0 !important;
+	margin-top: 20px !important;
+}
+.icon-text-box {
+	display: flex;
+	flex-direction: column;
+}
+.info-icon-number {
+	font-size: 2em;
+	justify-self: flex-start;
+}
+.info-icon-box {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+	background-color: rgba(255, 255, 255, 0.7);
+	border-radius: 5px;
+}
+.info-icon {
+	margin-right: 10px;
+	justify-self: flex-start;
+	color: rgb(72, 0, 100);
+	padding: 7px;
+	border-radius: 50%;
+}
+.info-icon-text {
+	align-self: center;
+	font-size: 0.8em;
+	justify-self: flex-end;
+	color: rgb(134, 134, 134);
+}
+.form-search {
+	width: 100%;
+}
+.lol {
+	background-color: rgb(238, 241, 245);
+	min-height: 100vh;
+}
+.issue {
+	justify-content: center;
+}
