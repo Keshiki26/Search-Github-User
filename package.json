@@ -1,6 +1,6 @@
 {
-	"homepage": "http://keshiki26.github.io/searchGithubUser",
-	"name": "searchgithubuser",
+	"homepage": "http://keshiki26.github.io/Search-Github-User",
+	"name": "Search-Github-User",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
